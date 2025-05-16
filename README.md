@@ -1,4 +1,5 @@
 # INPUTBOX SYSTEM
 This is an input box system written in c for SDL.
 
-[Input Box System Demo](screenshots/image.png)
+<h1>Input Box System Demo</h1>
+<image src="screenshots/image.png"><br>
